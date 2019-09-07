@@ -1,6 +1,7 @@
 # Morris.js - pretty time-series line graphs
 
 [![Build Status](https://secure.travis-ci.org/morrisjs/morris.js.png?branch=master)](http://travis-ci.org/morrisjs/morris.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fmorris.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fmorris.js?ref=badge_shield)
 
 Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/.
 It's a very simple API for drawing line, bar, area and donut charts.
@@ -235,3 +236,6 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fmorris.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fmorris.js?ref=badge_large)
